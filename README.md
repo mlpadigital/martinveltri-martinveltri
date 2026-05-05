@@ -25,16 +25,11 @@ Una plataforma integral diseñada para que emprendedores puedan crear sus **tien
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![Estadísticas de Martín](https://github-readme-stats.vercel.app/api?username=martinveltri&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=martinveltri&layout=compact&theme=radical)
-
 ---
 
 ### 📬 Conectemos
 - **Sitio Web:** [mlpadigital.com](https://mlpadigital.com)
-- **LinkedIn:** [Tu Perfil de LinkedIn]
+- **LinkedIn:** [www.linkedin.com/in/martinveltri]
 - **Ubicación:** 📍 Argentina
 
 ---
