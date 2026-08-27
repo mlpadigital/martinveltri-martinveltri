@@ -10,10 +10,11 @@ Soy un apasionado del desarrollo de software con **más de 10 años de experienc
 
 ### 🛠️ Mi Stack Tecnológico
 
-- **Frontend:** React, Angular, JavaScript (ES6+), TypeScript.
-- **Backend:** Node.js, Express, Python.
-- **Bases de Datos & Cloud:** Supabase, MongoDB, PostgreSQL, Cloudflare R2, Vercel.
-- **Automatización & IA:** n8n, Groq, Claude API.
+- **Frontend:** React, Angular, JavaScript (ES6+), Vte, HTML5, CSS3, TypeScript.
+- **Backend:** Node.js, Express, Python, REST APIs.
+- **Bases de Datos & Cloud:** Supabase (PostgreSQL, Storage, Auth & RLS), MongoDB, PostgreSQL, Cloudflare R2, Vercel.
+- **Automatización & IA:** n8n, Groq Claude API, Modelos LLM, Image Processing Pipelines.
+- - **Control de Versiones & DevOps:** Git, GitHub, Vercel
 
 ---
 
