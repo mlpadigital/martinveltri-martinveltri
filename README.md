@@ -1,4 +1,4 @@
-# martinveltri-martinveltri
+# martinveltri
 🏗️ Building @MlpaDigital | Full-Stack Expert (JS/TS/Python) | Automation &amp; IA enthusiast.
 # ¡Hola! Soy Martín Veltri 👋
 
@@ -31,7 +31,8 @@ Una plataforma integral diseñada para que emprendedores puedan crear sus **tien
 - **Sitio Web:** [mlpadigital.com](https://mlpadigital.com)
 - **LinkedIn:** [www.linkedin.com/in/martinveltri]
 - **Ubicación:** 📍 Argentina
+- **Email:** digitalmlpa@gmail.com
 
 ---
 
-> "Si puedes imaginarlo, puedes automatizarlo." ⚙️
+> "Si puedes imaginarlo, puedes crearlo." ⚙️
