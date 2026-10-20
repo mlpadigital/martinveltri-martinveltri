@@ -1,5 +1,5 @@
 # martinveltri
-🏗️ Building @MlpaDigital | Full-Stack Expert (JS/TS/Python) | Automation &amp; IA enthusiast.
+ Building @MlpaDigital | Full-Stack Expert (JS/TS/Python) 
 # ¡Hola! Soy Martín Veltri 👋
 
 ### 🚀 Senior Full-Stack Developer | SaaS Founder | Automation Enthusiast
@@ -8,7 +8,7 @@ Soy un apasionado del desarrollo de software con **más de 10 años de experienc
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+###  Mi Stack Tecnológico
 
 - **Frontend:** React, Angular, JavaScript (ES6+), Vte, HTML5, CSS3, TypeScript.
 - **Backend:** Node.js, Express, Python, REST APIs.
@@ -18,7 +18,7 @@ Soy un apasionado del desarrollo de software con **más de 10 años de experienc
 
 ---
 
-### 🏗️ Proyecto Principal: [MLPA Digital](https://mlpadigital.com)
+###  Proyecto Principal: [MLPA Digital](https://mlpadigital.com)
 Una plataforma integral diseñada para que emprendedores puedan crear sus **tiendas online y academias digitales** de forma sencilla pero con potencia profesional. 
 
 - **Arquitectura:** Multi-tenant con subdominios dinámicos.
@@ -28,7 +28,7 @@ Una plataforma integral diseñada para que emprendedores puedan crear sus **tien
 
 ---
 
-### 📬 Conectemos
+###  Conectemos
 - **Sitio Web:** [mlpadigital.com](https://mlpadigital.com)
 - **LinkedIn:** [www.linkedin.com/in/martinveltri]
 - **Ubicación:** 📍 Argentina
@@ -36,4 +36,4 @@ Una plataforma integral diseñada para que emprendedores puedan crear sus **tien
 
 ---
 
-> "Si puedes imaginarlo, puedes crearlo." ⚙️
+> "Si puedes imaginarlo, puedes crearlo." 
