@@ -1,6 +1,6 @@
 # martinveltri
  Building @MlpaDigital | Full-Stack Expert (JS/TS/Python) 
-# ¡Hola! Soy Martín Veltri 👋
+# ¡Hola! Soy Martín Veltri 
 
 ### 🚀 Senior Full-Stack Developer | SaaS Founder | Automation Enthusiast
 
