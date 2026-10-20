@@ -31,7 +31,7 @@ Una plataforma integral diseñada para que emprendedores puedan crear sus **tien
 ###  Conectemos
 - **Sitio Web:** [mlpadigital.com](https://mlpadigital.com)
 - **LinkedIn:** [www.linkedin.com/in/martinveltri]
-- **Ubicación:** 📍 Argentina
+- **Ubicación:**  Argentina
 - **Email:** digitalmlpa@gmail.com
 
 ---
